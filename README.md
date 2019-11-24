@@ -4,6 +4,7 @@ This repo shows some code about the pruning strategy in the paper "A Channel-lev
 ## Highlights
 network pruning based on attention.
 ## Citations
+```
 @inproceedings{song2018channel,
   title={A Channel-level Pruning Strategy for Convolutional Layers in CNNs},
   author={Song, Fangzhou and Wang, Ying and Guo, Yao and Zhu, Chuang and Liu, Jun and Jin, Mulan},
@@ -12,3 +13,4 @@ network pruning based on attention.
   year={2018},
   organization={IEEE}
 }
+```
